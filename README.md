@@ -8,4 +8,4 @@
 
 <br>
 
-[<p align='center'><kbd>  Jogar agora! </kbd></p>](https://play.unity.com/mg/fps/webgl-builds-335089)
+<a href="https://play.unity.com/mg/fps/webgl-builds-335089"><p align='center' style="font-size:24px;">  Jogar agora! </p></a>
