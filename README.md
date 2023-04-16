@@ -8,4 +8,4 @@
 
 <br>
 
-<a href="https://play.unity.com/mg/fps/webgl-builds-335089"><p align='center' style="font-size:24px;">  Jogar agora! </p></a>
+<p align='center' style="font-size:24px;"><a href="https://play.unity.com/mg/fps/webgl-builds-335089">Jogar agora!</a></p>
